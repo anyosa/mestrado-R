@@ -1,0 +1,31 @@
+generate.R
+include the basic functions to generate fdas and to simulate datasets.
+
+listan.R
+function to make data be transformed in stan list format.
+
+estimate.R
+functions to estimate the 15 models.
+
+graphics.R
+general template for the graphics.
+
+
+
+
+
+$git init
+set up a new git repo within the current directory
+
+$git status
+show the state of your files
+
+$git add <file>
+include in stage area
+
+$git commit -m <file>
+commit the file
+
+$git add /directory
+
+saved changes are called commits
